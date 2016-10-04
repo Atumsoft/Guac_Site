@@ -24,7 +24,7 @@
     height: 100%;
     max-width: 100%;
     width: 480px;
-    background: #EEE;
+    background: #ffffff;
     box-shadow: inset -1px 0 2px white, 1px 0 2px black;
     z-index: 10;
     -webkit-transition: left 0.125s, opacity 0.125s;

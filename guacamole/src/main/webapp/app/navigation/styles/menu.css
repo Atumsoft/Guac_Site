@@ -48,8 +48,6 @@
 
 .menu-dropdown {
     position: relative;
-    border-left: 1px solid rgba(0,0,0,0.125);
-    background: rgba(0,0,0,0.04);
 }
 
 .menu-dropdown:hover {
@@ -135,7 +133,7 @@
 }
 
 .menu-dropdown .menu-contents li a:hover {
-    background-color: #CDA;
+    background-color: #9ed3ff;
 }
 
 .menu-dropdown .menu-contents li a.current,

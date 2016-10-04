@@ -134,7 +134,7 @@
 #guac-menu #zoom-out:hover,
 #guac-menu #zoom-in:hover {
     border: 1px solid rgba(0, 0, 0, 1);
-    background: #CDA;
+    background: #9ed3ff;
 }
 
 #guac-menu #zoom-out:hover img,
